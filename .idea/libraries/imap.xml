@@ -1,14 +1,14 @@
 <component name="libraryTable">
   <library name="imap">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/imap.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/mailapi.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/pop3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/mail.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/gimap.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/dsn.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/smtp.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java mail api/gimap.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
