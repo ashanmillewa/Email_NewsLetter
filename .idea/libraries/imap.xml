@@ -1,14 +1,32 @@
 <component name="libraryTable">
   <library name="imap">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/java mail api/smtp.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/activation.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/dsn.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/imap.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/mail.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/mailapi.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/pop3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/java mail api/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javamail-1.4.7/java mail api/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/lib/java mail api/smtp.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/lib/java mail api/pop3.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/lib/java mail api/mailapi.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/lib/java mail api/imap.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/lib/java mail api/gimap.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/lib/java mail api/dsn.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-21/activation.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javamail-1.4.7/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allLibries/dsn.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
