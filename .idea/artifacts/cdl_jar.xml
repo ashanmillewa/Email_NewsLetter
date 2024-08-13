@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cdl:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="cdl.jar">
+      <element id="module-output" name="cdl" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/lib/java mail api/smtp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/lib/java mail api/pop3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/lib/java mail api/mailapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/lib/java mail api/imap.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/lib/java mail api/gimap.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/lib/java mail api/dsn.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk-21/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/smtp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/pop3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/mailapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/imap.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/gimap.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/allLibries/dsn.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
